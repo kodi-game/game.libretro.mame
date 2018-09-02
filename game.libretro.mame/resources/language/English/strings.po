@@ -45,38 +45,42 @@ msgid "Boot to OSD"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Enable cheats"
+msgid "Profile Buttons according to games (Restart)"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Media type"
+msgid "Enable cheats"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Enable in-game mouse"
+msgid "Media type"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Read configuration"
+msgid "Enable in-game mouse"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Save state naming"
+msgid "Read configuration"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Softlist automatic media type"
+msgid "Save state naming"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Enable softlists"
+msgid "Softlist automatic media type"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Enable throttle"
+msgid "Enable softlists"
 msgstr ""
 
 msgctxt "#30015"
+msgid "Enable throttle"
+msgstr ""
+
+msgctxt "#30016"
 msgid "Write configuration"
 msgstr ""
 

@@ -10,3 +10,5 @@ set(MAME_CUSTOM_BINARY ${MAME_LIB}
     ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
 
 build_addon(${PROJECT_NAME} MAME "")
+
+include(CPack)
