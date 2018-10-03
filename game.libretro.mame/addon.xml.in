@@ -20,9 +20,9 @@
 		<summary lang="en_GB">Arcade (MAME) 0.201</summary>
 		<description lang="en_GB">MAME stands for [B]M[/B]ultiple [B]A[/B]rcade [B]M[/B]achine [B]E[/B]mulator. MAME can currently emulate several thousand different classic arcade video games from the late 1970s through the modern era.
 
-Supported files: .chd, .cmd, .zip, .7z
+Icon credit: peter-86 (peter-86.deviantart.com)
 
-Icon credit: peter-86 (peter-86.deviantart.com)</description>
+Supported files: .chd, .cmd, .zip, .7z</description>
 		<license>GPLv2+</license>
 		<platform>@PLATFORM@</platform>
 	</extension>
