@@ -87,4 +87,3 @@ msgstr ""
 msgctxt "#30017"
 msgid "Write configuration"
 msgstr ""
-
