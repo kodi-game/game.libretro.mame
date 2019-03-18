@@ -25,6 +25,9 @@ Icon credit: peter-86 (peter-86.deviantart.com)
 Supported files: .chd, .cmd, .zip, .7z</description>
 		<license>GPLv2+</license>
 		<platform>@PLATFORM@</platform>
+		<assets>
+			<icon>resources/icon.png</icon>
+		</assets>
 		<source>https://github.com/kodi-game/game.libretro.mame</source>
 	</extension>
 </addon>
