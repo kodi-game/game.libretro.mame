@@ -9,14 +9,15 @@
 		<setting label="30006" type="select" id="mame_boot_to_osd" values="disabled|enabled" default="disabled"/>
 		<setting label="30007" type="select" id="mame_buttons_profiles" values="enabled|disabled" default="enabled"/>
 		<setting label="30008" type="select" id="mame_cheats_enable" values="disabled|enabled" default="disabled"/>
-		<setting label="30009" type="select" id="mame_mame_paths_enable" values="disabled|enabled" default="disabled"/>
-		<setting label="30010" type="select" id="mame_media_type" values="rom|cart|flop|cdrm|cass|hard|serl|prin" default="rom"/>
-		<setting label="30011" type="select" id="mame_mouse_enable" values="disabled|enabled" default="disabled"/>
-		<setting label="30012" type="select" id="mame_read_config" values="disabled|enabled" default="disabled"/>
-		<setting label="30013" type="select" id="mame_saves" values="game|system" default="game"/>
-		<setting label="30014" type="select" id="mame_softlists_auto_media" values="enabled|disabled" default="enabled"/>
-		<setting label="30015" type="select" id="mame_softlists_enable" values="enabled|disabled" default="enabled"/>
-		<setting label="30016" type="select" id="mame_throttle" values="disabled|enabled" default="disabled"/>
-		<setting label="30017" type="select" id="mame_write_config" values="disabled|enabled" default="disabled"/>
+		<setting label="30009" type="select" id="mame_lightgun_mode" values="none|touchscreen|lightgun" default="none"/>
+		<setting label="30010" type="select" id="mame_mame_paths_enable" values="disabled|enabled" default="disabled"/>
+		<setting label="30011" type="select" id="mame_media_type" values="rom|cart|flop|cdrm|cass|hard|serl|prin" default="rom"/>
+		<setting label="30012" type="select" id="mame_mouse_enable" values="disabled|enabled" default="disabled"/>
+		<setting label="30013" type="select" id="mame_read_config" values="disabled|enabled" default="disabled"/>
+		<setting label="30014" type="select" id="mame_saves" values="game|system" default="game"/>
+		<setting label="30015" type="select" id="mame_softlists_auto_media" values="enabled|disabled" default="enabled"/>
+		<setting label="30016" type="select" id="mame_softlists_enable" values="enabled|disabled" default="enabled"/>
+		<setting label="30017" type="select" id="mame_throttle" values="disabled|enabled" default="disabled"/>
+		<setting label="30018" type="select" id="mame_write_config" values="disabled|enabled" default="disabled"/>
 	</category>
 </settings>
