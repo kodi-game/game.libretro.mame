@@ -1,0 +1,37 @@
+From 595be45a021351e374e3ddfd6ee3068b720302b4 Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Wed, 29 Jan 2020 23:58:05 -0800
+Subject: [PATCH] Compile with -fPIC to fix linking the final .so
+
+---
+ makefile | 14 +++++++-------
+ 1 file changed, 7 insertions(+), 7 deletions(-)
+
+diff --git a/makefile b/makefile
+index 3b9a9b6f07..db586f554e 100644
+--- a/makefile
++++ b/makefile
+@@ -53,13 +53,13 @@
+ # SYMLEVEL = 2
+ # MAP = 1
+ # PROFILE = 1
+-# ARCHOPTS =
+-# ARCHOPTS_C =
+-# ARCHOPTS_CXX =
+-# ARCHOPTS_OBJC =
+-# ARCHOPTS_OBJCXX =
+-# OPT_FLAGS =
+-# LDOPTS =
++ARCHOPTS = -fPIC -mcmodel=medium
++ARCHOPTS_C = -fPIC -mcmodel=medium
++ARCHOPTS_CXX = -fPIC -mcmodel=medium
++ARCHOPTS_OBJC = -fPIC -mcmodel=medium
++ARCHOPTS_OBJCXX = -fPIC -mcmodel=medium
++OPT_FLAGS = -fPIC -mcmodel=medium
++LDOPTS = -fPIC -mcmodel=medium
+ 
+ # USE_SYSTEM_LIB_ASIO = 1
+ # USE_SYSTEM_LIB_EXPAT = 1
+-- 
+2.20.1
+
