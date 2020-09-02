@@ -53,41 +53,49 @@ msgid "Enable cheats"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Lightgun mode"
+msgid "Main CPU Overclock"
 msgstr ""
 
 msgctxt "#30010"
-msgid "MAME INI Paths"
+msgid "Lightgun mode"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Media type"
+msgid "MAME Joystick 4-way simulation"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Enable in-game mouse"
+msgid "MAME INI Paths"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Read configuration"
+msgid "Media type"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Save state naming"
+msgid "Enable in-game mouse"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Softlist automatic media type"
+msgid "Read configuration"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Enable softlists"
+msgid "Save state naming"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Enable throttle"
+msgid "Softlist automatic media type"
 msgstr ""
 
 msgctxt "#30018"
+msgid "Enable softlists"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Enable throttle"
+msgstr ""
+
+msgctxt "#30020"
 msgid "Write configuration"
 msgstr ""

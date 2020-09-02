@@ -4,7 +4,7 @@ Maintainer: wsnipex <wsnipex@a1.net>
 Build-Depends: debhelper (>= 9.0.0),
                cmake,
                kodi-addon-dev,
-               libretro-mame (>= 0.219.0) | mame (>= 0.219.0)
+               libretro-mame (>= 0.224.0) | mame (>= 0.224.0)
 Standards-Version: 3.9.8
 Section: libs
 
@@ -13,5 +13,5 @@ Section: libs
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, kodi, kodi-game-libretro
 Enhances: kodi
-Description: Arcade (MAME) core for kodi's retroplayer
- Arcade (MAME) core for kodi's retroplayer
+Description: Arcade (MAME - Current) core for kodi's retroplayer
+ Arcade (MAME - Current) core for kodi's retroplayer
