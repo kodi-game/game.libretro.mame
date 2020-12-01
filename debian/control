@@ -4,7 +4,7 @@ Maintainer: wsnipex <wsnipex@a1.net>
 Build-Depends: debhelper (>= 9.0.0),
                cmake,
                kodi-addon-dev,
-               libretro-mame (>= 0.224.0) | mame (>= 0.224.0)
+               libretro-mame (>= 0.226.0) | mame (>= 0.226.0)
 Standards-Version: 3.9.8
 Section: libs
 
