@@ -18,11 +18,8 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">Arcade (MAME - Current) 0.230</summary>
-		<description lang="en_GB">MAME stands for [B]M[/B]ultiple [B]A[/B]rcade [B]M[/B]achine [B]E[/B]mulator. MAME can currently emulate several thousand different classic arcade video games from the late 1970s through the modern era.
-
-Icon credit: peter-86 (peter-86.deviantart.com)
-
-Supported files: .chd, .cmd, .zip, .7z</description>
+		<description lang="en_GB">MAME stands for [B]M[/B]ultiple [B]A[/B]rcade [B]M[/B]achine [B]E[/B]mulator.[CR][CR]MAME can currently emulate several thousand different classic arcade video games from the late 1970s through the modern era.</description>
+		<disclaimer>Icon credit: peter-86 (peter-86.deviantart.com)</disclaimer>
 		<license>GPLv2+</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.mame</source>
