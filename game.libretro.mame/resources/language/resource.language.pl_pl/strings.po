@@ -16,6 +16,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 
+msgctxt "Addon Summary"
+msgid "Arcade (MAME - Current) 0.234"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "MAME stands for [B]M[/B]ultiple [B]A[/B]rcade [B]M[/B]achine [B]E[/B]mulator.[CR][CR]MAME can currently emulate several thousand different classic arcade video games from the late 1970s through the modern era."
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
