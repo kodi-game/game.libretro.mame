@@ -22,6 +22,6 @@
 		<source>https://github.com/kodi-game/game.libretro.mame</source>
 		<disclaimer>Icon credit: peter-86 (peter-86.deviantart.com)</disclaimer>
 		<summary lang="en_GB">Arcade (MAME - Current) 0.234</summary>
-		<description lang="en_GB">MAME stands for [B]M[/B]ultiple [B]A[/B]rcade [B]M[/B]achine [B]E[/B]mulator.[CR][CR]MAME can currently emulate several thousand different classic arcade video games from the late 1970s through the modern era.</description>
+		<description lang="en_GB">MAME stands for [B]M[/B]ultiple [B]A[/B]rcade [B]M[/B]achine [B]E[/B]mulator. MAME can currently emulate several thousand classic arcade games from the late 1970s through the modern era.</description>
 	</extension>
 </addon>
