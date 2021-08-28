@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.mame"
 		name="Arcade (MAME - Current)"
-		version="0.234.0.11"
+		version="0.234.0.12"
 		provider-name="MAMEdev">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -20,6 +20,9 @@
 		<license>GPLv2+</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.mame</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+		</assets>
 		<disclaimer>Icon credit: peter-86 (peter-86.deviantart.com)</disclaimer>
 		<summary lang="en_GB">Arcade (MAME - Current) 0.234</summary>
 		<description lang="en_GB">MAME stands for [B]M[/B]ultiple [B]A[/B]rcade [B]M[/B]achine [B]E[/B]mulator. MAME can currently emulate several thousand classic arcade games from the late 1970s through the modern era.</description>
