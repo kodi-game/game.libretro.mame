@@ -22,14 +22,6 @@ msgid "Arcade (MAME - Current) 0.234"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "MAME stands for [B]M[/B]ultiple [B]A[/B]rcade [B]M[/B]achine [B]E[/B]mulator.[CR][CR]MAME can currently emulate several thousand different classic arcade video games from the late 1970s through the modern era."
-msgstr ""
-
-msgctxt "Addon Summary"
-msgid "Arcade (MAME - Current) 0.234"
-msgstr ""
-
-msgctxt "Addon Description"
 msgid "MAME stands for [B]M[/B]ultiple [B]A[/B]rcade [B]M[/B]achine [B]E[/B]mulator. MAME can currently emulate several thousand classic arcade games from the late 1970s through the modern era."
 msgstr ""
 
