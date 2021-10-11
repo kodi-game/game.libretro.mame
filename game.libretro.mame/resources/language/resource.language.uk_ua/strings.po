@@ -24,6 +24,10 @@ msgctxt "Addon Description"
 msgid "MAME stands for [B]M[/B]ultiple [B]A[/B]rcade [B]M[/B]achine [B]E[/B]mulator. MAME can currently emulate several thousand classic arcade games from the late 1970s through the modern era."
 msgstr ""
 
+msgctxt "Addon Disclaimer"
+msgid "Icon credit: peter-86 (peter-86.deviantart.com)"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
