@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.mame"
 		name="Arcade (MAME - Current)"
-		version="0.234.0.12"
+		version="0.235.0.13"
 		provider-name="MAMEdev">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -15,6 +15,7 @@
 		<extensions>chd|cmd|zip|7z</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
+		<requires_opengl>false</requires_opengl>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>GPLv2+</license>
@@ -23,8 +24,8 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
-		<disclaimer>Icon credit: peter-86 (peter-86.deviantart.com)</disclaimer>
 		<summary lang="en_GB">Arcade (MAME - Current) 0.234</summary>
 		<description lang="en_GB">MAME stands for [B]M[/B]ultiple [B]A[/B]rcade [B]M[/B]achine [B]E[/B]mulator. MAME can currently emulate several thousand classic arcade games from the late 1970s through the modern era.</description>
+		<disclaimer lang="en_GB">Icon credit: peter-86 (peter-86.deviantart.com)</disclaimer>
 	</extension>
 </addon>
