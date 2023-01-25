@@ -13,7 +13,7 @@ GPLv2+
 
 ### Icon
 
-![Icon](game.libretro.mame/resources/icon.png)
+![Arcade (MAME - Current) icon](game.libretro.mame/resources/icon.png)
 
 ### Fanart
 
