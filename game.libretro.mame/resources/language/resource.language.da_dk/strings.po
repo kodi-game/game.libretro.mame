@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.mame\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2014-05-30 17:00+8\n"
-"PO-Revision-Date: 2021-11-23 14:46+0000\n"
+"PO-Revision-Date: 2023-02-17 22:57+0000\n"
 "Last-Translator: Christian Gade <gade@kodi.tv>\n"
 "Language-Team: Danish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-mame/da_dk/>\n"
 "Language: da_dk\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.9\n"
+"X-Generator: Weblate 4.15.2\n"
 
 msgctxt "Addon Summary"
 msgid "Arcade (MAME - Current) 0.234"
@@ -58,57 +58,117 @@ msgid "Lightgun mode"
 msgstr "Tilstand for lightgun"
 
 msgctxt "#30007"
+msgid "Lightgun offscreen position"
+msgstr ""
+
+msgctxt "#30008"
 msgid "Profile Buttons according to games (Restart)"
 msgstr "Profilknapper i henhold til spil (genstart)"
 
-msgctxt "#30008"
+msgctxt "#30009"
 msgid "Enable throttle"
 msgstr "Aktiver throttle"
 
-msgctxt "#30009"
+msgctxt "#30010"
 msgid "Enable cheats"
 msgstr "Aktiver snydekoder"
 
-msgctxt "#30010"
+msgctxt "#30011"
 msgid "Main CPU Overclock"
 msgstr "Overclock af hoved-CPU"
 
-msgctxt "#30011"
+msgctxt "#30012"
 msgid "Alternate render method"
 msgstr "Alternativ renderingsmetode"
 
-msgctxt "#30012"
+msgctxt "#30013"
 msgid "Enable softlists"
 msgstr "Aktiver softlists"
 
-msgctxt "#30013"
+msgctxt "#30014"
 msgid "Softlist automatic media type"
 msgstr "Kom automatisk medietyper på softlisten"
 
-msgctxt "#30014"
+msgctxt "#30015"
 msgid "Media type"
 msgstr "Medietype"
 
-msgctxt "#30015"
+msgctxt "#30016"
 msgid "Boot to BIOS"
 msgstr "Boot til BIOS"
 
-msgctxt "#30016"
+msgctxt "#30017"
 msgid "Boot to OSD"
 msgstr "Boot til OSD"
 
-msgctxt "#30017"
+msgctxt "#30018"
 msgid "Boot from CLI"
 msgstr "Boot fra CLI"
 
-msgctxt "#30018"
+msgctxt "#30019"
 msgid "Resolution"
 msgstr "Opløsning"
 
-msgctxt "#30019"
+msgctxt "#30020"
 msgid "MAME INI Paths"
 msgstr "MAME INI stier"
 
-msgctxt "#30020"
+msgctxt "#30021"
 msgid "MAME Joystick 4-way simulation"
-msgstr "Simulering af MAME 4-vejs joystick"
+msgstr ""
+
+#~ msgctxt "#30007"
+#~ msgid "Profile Buttons according to games (Restart)"
+#~ msgstr "Profilknapper i henhold til spil (genstart)"
+
+#~ msgctxt "#30008"
+#~ msgid "Enable throttle"
+#~ msgstr "Aktiver throttle"
+
+#~ msgctxt "#30009"
+#~ msgid "Enable cheats"
+#~ msgstr "Aktiver snydekoder"
+
+#~ msgctxt "#30010"
+#~ msgid "Main CPU Overclock"
+#~ msgstr "Overclock af hoved-CPU"
+
+#~ msgctxt "#30011"
+#~ msgid "Alternate render method"
+#~ msgstr "Alternativ renderingsmetode"
+
+#~ msgctxt "#30012"
+#~ msgid "Enable softlists"
+#~ msgstr "Aktiver softlists"
+
+#~ msgctxt "#30013"
+#~ msgid "Softlist automatic media type"
+#~ msgstr "Kom automatisk medietyper på softlisten"
+
+#~ msgctxt "#30014"
+#~ msgid "Media type"
+#~ msgstr "Medietype"
+
+#~ msgctxt "#30015"
+#~ msgid "Boot to BIOS"
+#~ msgstr "Boot til BIOS"
+
+#~ msgctxt "#30016"
+#~ msgid "Boot to OSD"
+#~ msgstr "Boot til OSD"
+
+#~ msgctxt "#30017"
+#~ msgid "Boot from CLI"
+#~ msgstr "Boot fra CLI"
+
+#~ msgctxt "#30018"
+#~ msgid "Resolution"
+#~ msgstr "Opløsning"
+
+#~ msgctxt "#30019"
+#~ msgid "MAME INI Paths"
+#~ msgstr "MAME INI stier"
+
+#~ msgctxt "#30020"
+#~ msgid "MAME Joystick 4-way simulation"
+#~ msgstr "Simulering af MAME 4-vejs joystick"

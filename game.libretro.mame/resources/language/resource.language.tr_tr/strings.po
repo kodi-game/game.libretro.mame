@@ -57,57 +57,61 @@ msgid "Lightgun mode"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Profile Buttons according to games (Restart)"
+msgid "Lightgun offscreen position"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Enable throttle"
+msgid "Profile Buttons according to games (Restart)"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Enable cheats"
+msgid "Enable throttle"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Main CPU Overclock"
+msgid "Enable cheats"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Alternate render method"
+msgid "Main CPU Overclock"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Enable softlists"
+msgid "Alternate render method"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Softlist automatic media type"
+msgid "Enable softlists"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Media type"
+msgid "Softlist automatic media type"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Boot to BIOS"
+msgid "Media type"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Boot to OSD"
+msgid "Boot to BIOS"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Boot from CLI"
+msgid "Boot to OSD"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Resolution"
+msgid "Boot from CLI"
 msgstr ""
 
 msgctxt "#30019"
-msgid "MAME INI Paths"
+msgid "Resolution"
 msgstr ""
 
 msgctxt "#30020"
+msgid "MAME INI Paths"
+msgstr ""
+
+msgctxt "#30021"
 msgid "MAME Joystick 4-way simulation"
 msgstr ""

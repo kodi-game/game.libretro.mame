@@ -58,57 +58,117 @@ msgid "Lightgun mode"
 msgstr "光线枪模式"
 
 msgctxt "#30007"
-msgid "Profile Buttons according to games (Restart)"
-msgstr "针对游戏来配置按钮（重新启动）"
+msgid "Lightgun offscreen position"
+msgstr ""
 
 msgctxt "#30008"
-msgid "Enable throttle"
-msgstr "启用节气门"
+msgid "Profile Buttons according to games (Restart)"
+msgstr ""
 
 msgctxt "#30009"
-msgid "Enable cheats"
-msgstr "启用作弊"
+msgid "Enable throttle"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Main CPU Overclock"
-msgstr "主 CPU 超频"
+msgid "Enable cheats"
+msgstr ""
 
 msgctxt "#30011"
-msgid "Alternate render method"
-msgstr "替代渲染方法"
+msgid "Main CPU Overclock"
+msgstr ""
 
 msgctxt "#30012"
-msgid "Enable softlists"
-msgstr "启用软列表"
+msgid "Alternate render method"
+msgstr ""
 
 msgctxt "#30013"
-msgid "Softlist automatic media type"
-msgstr "软列表自动媒体类型"
+msgid "Enable softlists"
+msgstr ""
 
 msgctxt "#30014"
-msgid "Media type"
-msgstr "媒体类型"
+msgid "Softlist automatic media type"
+msgstr ""
 
 msgctxt "#30015"
-msgid "Boot to BIOS"
-msgstr "引导至 BIOS"
+msgid "Media type"
+msgstr ""
 
 msgctxt "#30016"
-msgid "Boot to OSD"
-msgstr "引导至 OSD"
+msgid "Boot to BIOS"
+msgstr ""
 
 msgctxt "#30017"
-msgid "Boot from CLI"
-msgstr "从 CLI 引导"
+msgid "Boot to OSD"
+msgstr ""
 
 msgctxt "#30018"
-msgid "Resolution"
-msgstr "分辨率"
+msgid "Boot from CLI"
+msgstr ""
 
 msgctxt "#30019"
-msgid "MAME INI Paths"
-msgstr "MAME INI 路径"
+msgid "Resolution"
+msgstr ""
 
 msgctxt "#30020"
+msgid "MAME INI Paths"
+msgstr ""
+
+msgctxt "#30021"
 msgid "MAME Joystick 4-way simulation"
-msgstr "MAME 游戏杆4路模拟"
+msgstr ""
+
+#~ msgctxt "#30007"
+#~ msgid "Profile Buttons according to games (Restart)"
+#~ msgstr "针对游戏来配置按钮（重新启动）"
+
+#~ msgctxt "#30008"
+#~ msgid "Enable throttle"
+#~ msgstr "启用节气门"
+
+#~ msgctxt "#30009"
+#~ msgid "Enable cheats"
+#~ msgstr "启用作弊"
+
+#~ msgctxt "#30010"
+#~ msgid "Main CPU Overclock"
+#~ msgstr "主 CPU 超频"
+
+#~ msgctxt "#30011"
+#~ msgid "Alternate render method"
+#~ msgstr "替代渲染方法"
+
+#~ msgctxt "#30012"
+#~ msgid "Enable softlists"
+#~ msgstr "启用软列表"
+
+#~ msgctxt "#30013"
+#~ msgid "Softlist automatic media type"
+#~ msgstr "软列表自动媒体类型"
+
+#~ msgctxt "#30014"
+#~ msgid "Media type"
+#~ msgstr "媒体类型"
+
+#~ msgctxt "#30015"
+#~ msgid "Boot to BIOS"
+#~ msgstr "引导至 BIOS"
+
+#~ msgctxt "#30016"
+#~ msgid "Boot to OSD"
+#~ msgstr "引导至 OSD"
+
+#~ msgctxt "#30017"
+#~ msgid "Boot from CLI"
+#~ msgstr "从 CLI 引导"
+
+#~ msgctxt "#30018"
+#~ msgid "Resolution"
+#~ msgstr "分辨率"
+
+#~ msgctxt "#30019"
+#~ msgid "MAME INI Paths"
+#~ msgstr "MAME INI 路径"
+
+#~ msgctxt "#30020"
+#~ msgid "MAME Joystick 4-way simulation"
+#~ msgstr "MAME 游戏杆4路模拟"
