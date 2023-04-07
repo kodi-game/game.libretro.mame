@@ -1,1 +1,1 @@
-mame https://github.com/libretro/mame/archive/f7761a9902d59030882c58d4482446196e748c50.tar.gz
+mame https://github.com/libretro/mame/archive/cd5f7d077cdab2eac09faf642ddd121d80f3ad1b.tar.gz
