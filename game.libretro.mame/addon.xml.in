@@ -24,6 +24,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="da_DK">Arcade (MAME - Nuværende)</summary>
 		<summary lang="en_GB">Arcade (MAME - Current)</summary>
 		<summary lang="es_ES">Arcade (MAME - Actual)</summary>
 		<description lang="da_DK">MAME står for [B]M[/B]ultiple [B]A[/B]rcade [B]M[/B]achine [B]E[/B]mulator. MAME kan i øjeblikket efterligne flere tusinde klassiske arkadespil fra slutningen af 1970&apos;erne gennem den moderne æra.</description>
