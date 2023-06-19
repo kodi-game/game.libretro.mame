@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 4.15.2\n"
 
 msgctxt "Addon Summary"
-msgid "Arcade (MAME - Current)"
+msgid "Arcade (MAME)"
 msgstr ""
 
 msgctxt "Addon Description"
@@ -34,88 +34,172 @@ msgid "Settings"
 msgstr "Ajustes"
 
 msgctxt "#30001"
-msgid "Read configuration"
-msgstr "Leer configuración"
+msgid "Enable Mouse"
+msgstr ""
 
 msgctxt "#30002"
-msgid "Write configuration"
-msgstr "Escribir configuración"
+msgid "Lightgun Mode"
+msgstr ""
 
 msgctxt "#30003"
-msgid "Save state naming"
-msgstr "Nombrado de estados de guardado"
+msgid "Lightgun Offscreen Position"
+msgstr ""
 
 msgctxt "#30004"
-msgid "Auto save/load states"
-msgstr "Cargar/guardar estados automáticamente"
+msgid "Profile Buttons Per Game"
+msgstr ""
 
 msgctxt "#30005"
-msgid "Enable in-game mouse"
-msgstr "Activar ratón de juego"
+msgid "Joystick Deadzone"
+msgstr ""
 
 msgctxt "#30006"
-msgid "Lightgun mode"
-msgstr "Modo pistola de luz"
+msgid "Joystick Saturation"
+msgstr ""
 
 msgctxt "#30007"
-msgid "Lightgun offscreen position"
+msgid "Joystick 4-way Simulation"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Profile Buttons according to games (Restart)"
-msgstr "Botones de perfil acordes a los juegos (Reiniciar)"
+msgid "Rotation Mode"
+msgstr ""
 
 msgctxt "#30009"
-msgid "Enable throttle"
-msgstr "Activar limitantes"
+msgid "Alternate Renderer"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Enable cheats"
-msgstr "Activar trucos"
+msgid "Alternate Renderer Resolution"
+msgstr ""
 
 msgctxt "#30011"
 msgid "Main CPU Overclock"
 msgstr "Overclock del CPU principal"
 
 msgctxt "#30012"
-msgid "Alternate render method"
-msgstr "Método de renderizado alternativo"
+msgid "Enable Cheats"
+msgstr ""
 
 msgctxt "#30013"
-msgid "Enable softlists"
-msgstr "Activar Softlists"
+msgid "Enable Throttle"
+msgstr ""
 
 msgctxt "#30014"
-msgid "Softlist automatic media type"
-msgstr "Tipo de medio de Softlist automático"
+msgid "Boot to BIOS"
+msgstr ""
 
 msgctxt "#30015"
-msgid "Media type"
-msgstr "Tipo de medio"
+msgid "Boot to OSD"
+msgstr ""
 
 msgctxt "#30016"
-msgid "Boot to BIOS"
-msgstr "Arrancar al BIOS"
+msgid "Boot from CLI"
+msgstr ""
 
 msgctxt "#30017"
-msgid "Boot to OSD"
-msgstr "Arrancar al OSD"
+msgid "Read Configuration"
+msgstr ""
 
 msgctxt "#30018"
-msgid "Boot from CLI"
-msgstr "Arrancar desde línea de comandos"
+msgid "Write Configuration"
+msgstr ""
 
 msgctxt "#30019"
-msgid "Resolution"
-msgstr "Resolución"
-
-msgctxt "#30020"
 msgid "MAME INI Paths"
 msgstr "Rutas INI de MAME"
 
-msgctxt "#30021"
-msgid "MAME Joystick 4-way simulation"
+msgctxt "#30020"
+msgid "Save State Naming"
 msgstr ""
+
+msgctxt "#30021"
+msgid "Auto Save/Load States"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Enable Softlists"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Softlist Automatic Media Type"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Media Type"
+msgstr ""
+
+#~ msgctxt "#30001"
+#~ msgid "Read configuration"
+#~ msgstr "Leer configuración"
+
+#~ msgctxt "#30002"
+#~ msgid "Write configuration"
+#~ msgstr "Escribir configuración"
+
+#~ msgctxt "#30003"
+#~ msgid "Save state naming"
+#~ msgstr "Nombrado de estados de guardado"
+
+#~ msgctxt "#30004"
+#~ msgid "Auto save/load states"
+#~ msgstr "Cargar/guardar estados automáticamente"
+
+#~ msgctxt "#30005"
+#~ msgid "Enable in-game mouse"
+#~ msgstr "Activar ratón de juego"
+
+#~ msgctxt "#30006"
+#~ msgid "Lightgun mode"
+#~ msgstr "Modo pistola de luz"
+
+#~ msgctxt "#30008"
+#~ msgid "Profile Buttons according to games (Restart)"
+#~ msgstr "Botones de perfil acordes a los juegos (Reiniciar)"
+
+#~ msgctxt "#30009"
+#~ msgid "Enable throttle"
+#~ msgstr "Activar limitantes"
+
+#~ msgctxt "#30010"
+#~ msgid "Enable cheats"
+#~ msgstr "Activar trucos"
+
+#~ msgctxt "#30012"
+#~ msgid "Alternate render method"
+#~ msgstr "Método de renderizado alternativo"
+
+#~ msgctxt "#30013"
+#~ msgid "Enable softlists"
+#~ msgstr "Activar Softlists"
+
+#~ msgctxt "#30014"
+#~ msgid "Softlist automatic media type"
+#~ msgstr "Tipo de medio de Softlist automático"
+
+#~ msgctxt "#30015"
+#~ msgid "Media type"
+#~ msgstr "Tipo de medio"
+
+#~ msgctxt "#30016"
+#~ msgid "Boot to BIOS"
+#~ msgstr "Arrancar al BIOS"
+
+#~ msgctxt "#30017"
+#~ msgid "Boot to OSD"
+#~ msgstr "Arrancar al OSD"
+
+#~ msgctxt "#30018"
+#~ msgid "Boot from CLI"
+#~ msgstr "Arrancar desde línea de comandos"
+
+#~ msgctxt "#30019"
+#~ msgid "Resolution"
+#~ msgstr "Resolución"
+
+#~ msgctxt "#30020"
+#~ msgid "MAME INI Paths"
+#~ msgstr "Rutas INI de MAME"
 
 #~ msgctxt "#30007"
 #~ msgid "Profile Buttons according to games (Restart)"
@@ -164,10 +248,6 @@ msgstr ""
 #~ msgctxt "#30018"
 #~ msgid "Resolution"
 #~ msgstr "Resolución"
-
-#~ msgctxt "#30019"
-#~ msgid "MAME INI Paths"
-#~ msgstr "Rutas INI de MAME"
 
 #~ msgctxt "#30020"
 #~ msgid "MAME Joystick 4-way simulation"

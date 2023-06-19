@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 4.5.3\n"
 
 msgctxt "Addon Summary"
-msgid "Arcade (MAME - Current)"
+msgid "Arcade (MAME)"
 msgstr ""
 
 msgctxt "Addon Description"
@@ -34,43 +34,43 @@ msgid "Settings"
 msgstr "Настройки"
 
 msgctxt "#30001"
-msgid "Read configuration"
+msgid "Enable Mouse"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Write configuration"
+msgid "Lightgun Mode"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Save state naming"
+msgid "Lightgun Offscreen Position"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Auto save/load states"
+msgid "Profile Buttons Per Game"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Enable in-game mouse"
+msgid "Joystick Deadzone"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Lightgun mode"
+msgid "Joystick Saturation"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Lightgun offscreen position"
+msgid "Joystick 4-way Simulation"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Profile Buttons according to games (Restart)"
+msgid "Rotation Mode"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Enable throttle"
+msgid "Alternate Renderer"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Enable cheats"
+msgid "Alternate Renderer Resolution"
 msgstr ""
 
 msgctxt "#30011"
@@ -78,41 +78,53 @@ msgid "Main CPU Overclock"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Alternate render method"
+msgid "Enable Cheats"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Enable softlists"
+msgid "Enable Throttle"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Softlist automatic media type"
-msgstr ""
-
-msgctxt "#30015"
-msgid "Media type"
-msgstr ""
-
-msgctxt "#30016"
 msgid "Boot to BIOS"
 msgstr ""
 
-msgctxt "#30017"
+msgctxt "#30015"
 msgid "Boot to OSD"
 msgstr ""
 
-msgctxt "#30018"
+msgctxt "#30016"
 msgid "Boot from CLI"
 msgstr ""
 
-msgctxt "#30019"
-msgid "Resolution"
+msgctxt "#30017"
+msgid "Read Configuration"
 msgstr ""
 
-msgctxt "#30020"
+msgctxt "#30018"
+msgid "Write Configuration"
+msgstr ""
+
+msgctxt "#30019"
 msgid "MAME INI Paths"
 msgstr ""
 
+msgctxt "#30020"
+msgid "Save State Naming"
+msgstr ""
+
 msgctxt "#30021"
-msgid "MAME Joystick 4-way simulation"
+msgid "Auto Save/Load States"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Enable Softlists"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Softlist Automatic Media Type"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Media Type"
 msgstr ""

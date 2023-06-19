@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 4.15.2\n"
 
 msgctxt "Addon Summary"
-msgid "Arcade (MAME - Current)"
+msgid "Arcade (MAME)"
 msgstr ""
 
 msgctxt "Addon Description"
@@ -34,85 +34,153 @@ msgid "Settings"
 msgstr "Paramètres"
 
 msgctxt "#30001"
-msgid "Read configuration"
-msgstr "Lire la configuration"
+msgid "Enable Mouse"
+msgstr ""
 
 msgctxt "#30002"
-msgid "Write configuration"
-msgstr "Écrire la configuration"
+msgid "Lightgun Mode"
+msgstr ""
 
 msgctxt "#30003"
-msgid "Save state naming"
-msgstr "Enregistrer la dénomination de l'état"
+msgid "Lightgun Offscreen Position"
+msgstr ""
 
 msgctxt "#30004"
-msgid "Auto save/load states"
-msgstr "Sauvegarde automatique /chargement automatiques"
+msgid "Profile Buttons Per Game"
+msgstr ""
 
 msgctxt "#30005"
-msgid "Enable in-game mouse"
-msgstr "Activer la souris dans le jeu"
+msgid "Joystick Deadzone"
+msgstr ""
 
 msgctxt "#30006"
-msgid "Lightgun mode"
-msgstr "Mode pistolet léger"
+msgid "Joystick Saturation"
+msgstr ""
 
 msgctxt "#30007"
-msgid "Lightgun offscreen position"
+msgid "Joystick 4-way Simulation"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Profile Buttons according to games (Restart)"
-msgstr "Boutons de profil selon les jeux (Redémarrer)"
+msgid "Rotation Mode"
+msgstr ""
 
 msgctxt "#30009"
-msgid "Enable throttle"
-msgstr "Activer l'accélérateur"
+msgid "Alternate Renderer"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Enable cheats"
-msgstr "Activer les cheats"
+msgid "Alternate Renderer Resolution"
+msgstr ""
 
 msgctxt "#30011"
 msgid "Main CPU Overclock"
 msgstr "Overclock du processeur principal"
 
 msgctxt "#30012"
-msgid "Alternate render method"
-msgstr "Méthode de rendu alternative"
+msgid "Enable Cheats"
+msgstr ""
 
 msgctxt "#30013"
-msgid "Enable softlists"
+msgid "Enable Throttle"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Softlist automatic media type"
-msgstr ""
-
-msgctxt "#30015"
-msgid "Media type"
-msgstr ""
-
-msgctxt "#30016"
 msgid "Boot to BIOS"
 msgstr ""
 
-msgctxt "#30017"
+msgctxt "#30015"
 msgid "Boot to OSD"
 msgstr ""
 
-msgctxt "#30018"
+msgctxt "#30016"
 msgid "Boot from CLI"
-msgstr "Démarrage à partir de la CLI"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Read Configuration"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Write Configuration"
+msgstr ""
 
 msgctxt "#30019"
-msgid "Resolution"
-msgstr "Résolution"
+msgid "MAME INI Paths"
+msgstr ""
 
 msgctxt "#30020"
-msgid "MAME INI Paths"
-msgstr "Chemins MAME INI"
+msgid "Save State Naming"
+msgstr ""
 
 msgctxt "#30021"
-msgid "MAME Joystick 4-way simulation"
-msgstr "Simulation 4 voies du joystick MAME"
+msgid "Auto Save/Load States"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Enable Softlists"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Softlist Automatic Media Type"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Media Type"
+msgstr ""
+
+#~ msgctxt "#30001"
+#~ msgid "Read configuration"
+#~ msgstr "Lire la configuration"
+
+#~ msgctxt "#30002"
+#~ msgid "Write configuration"
+#~ msgstr "Écrire la configuration"
+
+#~ msgctxt "#30003"
+#~ msgid "Save state naming"
+#~ msgstr "Enregistrer la dénomination de l'état"
+
+#~ msgctxt "#30004"
+#~ msgid "Auto save/load states"
+#~ msgstr "Sauvegarde automatique /chargement automatiques"
+
+#~ msgctxt "#30005"
+#~ msgid "Enable in-game mouse"
+#~ msgstr "Activer la souris dans le jeu"
+
+#~ msgctxt "#30006"
+#~ msgid "Lightgun mode"
+#~ msgstr "Mode pistolet léger"
+
+#~ msgctxt "#30008"
+#~ msgid "Profile Buttons according to games (Restart)"
+#~ msgstr "Boutons de profil selon les jeux (Redémarrer)"
+
+#~ msgctxt "#30009"
+#~ msgid "Enable throttle"
+#~ msgstr "Activer l'accélérateur"
+
+#~ msgctxt "#30010"
+#~ msgid "Enable cheats"
+#~ msgstr "Activer les cheats"
+
+#~ msgctxt "#30012"
+#~ msgid "Alternate render method"
+#~ msgstr "Méthode de rendu alternative"
+
+#~ msgctxt "#30018"
+#~ msgid "Boot from CLI"
+#~ msgstr "Démarrage à partir de la CLI"
+
+#~ msgctxt "#30019"
+#~ msgid "Resolution"
+#~ msgstr "Résolution"
+
+#~ msgctxt "#30020"
+#~ msgid "MAME INI Paths"
+#~ msgstr "Chemins MAME INI"
+
+#~ msgctxt "#30021"
+#~ msgid "MAME Joystick 4-way simulation"
+#~ msgstr "Simulation 4 voies du joystick MAME"

@@ -18,8 +18,8 @@ msgstr ""
 "X-Generator: Weblate 4.17\n"
 
 msgctxt "Addon Summary"
-msgid "Arcade (MAME - Current)"
-msgstr "街机（MAME - 当前）"
+msgid "Arcade (MAME)"
+msgstr ""
 
 msgctxt "Addon Description"
 msgid "MAME stands for [B]M[/B]ultiple [B]A[/B]rcade [B]M[/B]achine [B]E[/B]mulator. MAME can currently emulate several thousand classic arcade games from the late 1970s through the modern era."
@@ -34,88 +34,184 @@ msgid "Settings"
 msgstr "设置"
 
 msgctxt "#30001"
-msgid "Read configuration"
-msgstr "读取配置"
+msgid "Enable Mouse"
+msgstr ""
 
 msgctxt "#30002"
-msgid "Write configuration"
-msgstr "写入配置"
+msgid "Lightgun Mode"
+msgstr ""
 
 msgctxt "#30003"
-msgid "Save state naming"
-msgstr "保存状态命名"
+msgid "Lightgun Offscreen Position"
+msgstr ""
 
 msgctxt "#30004"
-msgid "Auto save/load states"
-msgstr "自动保存/加载状态"
+msgid "Profile Buttons Per Game"
+msgstr ""
 
 msgctxt "#30005"
-msgid "Enable in-game mouse"
-msgstr "启用游戏内鼠标"
+msgid "Joystick Deadzone"
+msgstr ""
 
 msgctxt "#30006"
-msgid "Lightgun mode"
-msgstr "光线枪模式"
+msgid "Joystick Saturation"
+msgstr ""
 
 msgctxt "#30007"
-msgid "Lightgun offscreen position"
-msgstr "光线枪屏幕外位置"
+msgid "Joystick 4-way Simulation"
+msgstr ""
 
 msgctxt "#30008"
-msgid "Profile Buttons according to games (Restart)"
-msgstr "针对游戏来配置按钮（重新启动）"
+msgid "Rotation Mode"
+msgstr ""
 
 msgctxt "#30009"
-msgid "Enable throttle"
-msgstr "启用节气门"
+msgid "Alternate Renderer"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Enable cheats"
-msgstr "启用作弊"
+msgid "Alternate Renderer Resolution"
+msgstr ""
 
 msgctxt "#30011"
 msgid "Main CPU Overclock"
 msgstr "主 CPU 超频"
 
 msgctxt "#30012"
-msgid "Alternate render method"
-msgstr "替代渲染方法"
+msgid "Enable Cheats"
+msgstr ""
 
 msgctxt "#30013"
-msgid "Enable softlists"
-msgstr "启用软列表"
+msgid "Enable Throttle"
+msgstr ""
 
 msgctxt "#30014"
-msgid "Softlist automatic media type"
-msgstr "软列表自动媒体类型"
+msgid "Boot to BIOS"
+msgstr ""
 
 msgctxt "#30015"
-msgid "Media type"
-msgstr "媒体类型"
+msgid "Boot to OSD"
+msgstr ""
 
 msgctxt "#30016"
-msgid "Boot to BIOS"
-msgstr "引导至 BIOS"
+msgid "Boot from CLI"
+msgstr ""
 
 msgctxt "#30017"
-msgid "Boot to OSD"
-msgstr "引导至 OSD"
+msgid "Read Configuration"
+msgstr ""
 
 msgctxt "#30018"
-msgid "Boot from CLI"
-msgstr "从 CLI 引导"
+msgid "Write Configuration"
+msgstr ""
 
 msgctxt "#30019"
-msgid "Resolution"
-msgstr "分辨率"
-
-msgctxt "#30020"
 msgid "MAME INI Paths"
 msgstr "MAME INI 路径"
 
+msgctxt "#30020"
+msgid "Save State Naming"
+msgstr ""
+
 msgctxt "#30021"
-msgid "MAME Joystick 4-way simulation"
-msgstr "MAME 操纵杆4路模拟"
+msgid "Auto Save/Load States"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Enable Softlists"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Softlist Automatic Media Type"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Media Type"
+msgstr ""
+
+#~ msgctxt "Addon Summary"
+#~ msgid "Arcade (MAME - Current)"
+#~ msgstr "街机（MAME - 当前）"
+
+#~ msgctxt "#30001"
+#~ msgid "Read configuration"
+#~ msgstr "读取配置"
+
+#~ msgctxt "#30002"
+#~ msgid "Write configuration"
+#~ msgstr "写入配置"
+
+#~ msgctxt "#30003"
+#~ msgid "Save state naming"
+#~ msgstr "保存状态命名"
+
+#~ msgctxt "#30004"
+#~ msgid "Auto save/load states"
+#~ msgstr "自动保存/加载状态"
+
+#~ msgctxt "#30005"
+#~ msgid "Enable in-game mouse"
+#~ msgstr "启用游戏内鼠标"
+
+#~ msgctxt "#30006"
+#~ msgid "Lightgun mode"
+#~ msgstr "光线枪模式"
+
+#~ msgctxt "#30007"
+#~ msgid "Lightgun offscreen position"
+#~ msgstr "光线枪屏幕外位置"
+
+#~ msgctxt "#30008"
+#~ msgid "Profile Buttons according to games (Restart)"
+#~ msgstr "针对游戏来配置按钮（重新启动）"
+
+#~ msgctxt "#30009"
+#~ msgid "Enable throttle"
+#~ msgstr "启用节气门"
+
+#~ msgctxt "#30010"
+#~ msgid "Enable cheats"
+#~ msgstr "启用作弊"
+
+#~ msgctxt "#30012"
+#~ msgid "Alternate render method"
+#~ msgstr "替代渲染方法"
+
+#~ msgctxt "#30013"
+#~ msgid "Enable softlists"
+#~ msgstr "启用软列表"
+
+#~ msgctxt "#30014"
+#~ msgid "Softlist automatic media type"
+#~ msgstr "软列表自动媒体类型"
+
+#~ msgctxt "#30015"
+#~ msgid "Media type"
+#~ msgstr "媒体类型"
+
+#~ msgctxt "#30016"
+#~ msgid "Boot to BIOS"
+#~ msgstr "引导至 BIOS"
+
+#~ msgctxt "#30017"
+#~ msgid "Boot to OSD"
+#~ msgstr "引导至 OSD"
+
+#~ msgctxt "#30018"
+#~ msgid "Boot from CLI"
+#~ msgstr "从 CLI 引导"
+
+#~ msgctxt "#30019"
+#~ msgid "Resolution"
+#~ msgstr "分辨率"
+
+#~ msgctxt "#30020"
+#~ msgid "MAME INI Paths"
+#~ msgstr "MAME INI 路径"
+
+#~ msgctxt "#30021"
+#~ msgid "MAME Joystick 4-way simulation"
+#~ msgstr "MAME 操纵杆4路模拟"
 
 #~ msgctxt "#30007"
 #~ msgid "Profile Buttons according to games (Restart)"
@@ -164,10 +260,6 @@ msgstr "MAME 操纵杆4路模拟"
 #~ msgctxt "#30018"
 #~ msgid "Resolution"
 #~ msgstr "分辨率"
-
-#~ msgctxt "#30019"
-#~ msgid "MAME INI Paths"
-#~ msgstr "MAME INI 路径"
 
 #~ msgctxt "#30020"
 #~ msgid "MAME Joystick 4-way simulation"

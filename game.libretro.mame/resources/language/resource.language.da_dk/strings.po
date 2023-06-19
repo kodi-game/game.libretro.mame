@@ -18,8 +18,8 @@ msgstr ""
 "X-Generator: Weblate 4.15.2\n"
 
 msgctxt "Addon Summary"
-msgid "Arcade (MAME - Current)"
-msgstr "Arcade (MAME - Nuværende)"
+msgid "Arcade (MAME)"
+msgstr ""
 
 msgctxt "Addon Description"
 msgid "MAME stands for [B]M[/B]ultiple [B]A[/B]rcade [B]M[/B]achine [B]E[/B]mulator. MAME can currently emulate several thousand classic arcade games from the late 1970s through the modern era."
@@ -34,88 +34,184 @@ msgid "Settings"
 msgstr "Indstillinger"
 
 msgctxt "#30001"
-msgid "Read configuration"
-msgstr "Læs konfiguration"
+msgid "Enable Mouse"
+msgstr ""
 
 msgctxt "#30002"
-msgid "Write configuration"
-msgstr "Skriv konfiguration"
+msgid "Lightgun Mode"
+msgstr ""
 
 msgctxt "#30003"
-msgid "Save state naming"
-msgstr "Gem navngivning af tilstanden"
+msgid "Lightgun Offscreen Position"
+msgstr ""
 
 msgctxt "#30004"
-msgid "Auto save/load states"
-msgstr "Gem/indlæs automatisk tilstande"
+msgid "Profile Buttons Per Game"
+msgstr ""
 
 msgctxt "#30005"
-msgid "Enable in-game mouse"
-msgstr "Aktiver mus i spillet"
+msgid "Joystick Deadzone"
+msgstr ""
 
 msgctxt "#30006"
-msgid "Lightgun mode"
-msgstr "Tilstand for lightgun"
+msgid "Joystick Saturation"
+msgstr ""
 
 msgctxt "#30007"
-msgid "Lightgun offscreen position"
-msgstr "Lightgun position udenfor skærmen"
+msgid "Joystick 4-way Simulation"
+msgstr ""
 
 msgctxt "#30008"
-msgid "Profile Buttons according to games (Restart)"
-msgstr "Profilknapper i henhold til spil (genstart)"
+msgid "Rotation Mode"
+msgstr ""
 
 msgctxt "#30009"
-msgid "Enable throttle"
-msgstr "Aktiver throttle"
+msgid "Alternate Renderer"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Enable cheats"
-msgstr "Aktiver snydekoder"
+msgid "Alternate Renderer Resolution"
+msgstr ""
 
 msgctxt "#30011"
 msgid "Main CPU Overclock"
 msgstr "Overclock af hoved-CPU"
 
 msgctxt "#30012"
-msgid "Alternate render method"
-msgstr "Alternativ renderingsmetode"
+msgid "Enable Cheats"
+msgstr ""
 
 msgctxt "#30013"
-msgid "Enable softlists"
-msgstr "Aktiver softlists"
+msgid "Enable Throttle"
+msgstr ""
 
 msgctxt "#30014"
-msgid "Softlist automatic media type"
-msgstr "Kom automatisk medietyper på softlisten"
+msgid "Boot to BIOS"
+msgstr ""
 
 msgctxt "#30015"
-msgid "Media type"
-msgstr "Medietype"
+msgid "Boot to OSD"
+msgstr ""
 
 msgctxt "#30016"
-msgid "Boot to BIOS"
-msgstr "Boot til BIOS"
+msgid "Boot from CLI"
+msgstr ""
 
 msgctxt "#30017"
-msgid "Boot to OSD"
-msgstr "Boot til OSD"
+msgid "Read Configuration"
+msgstr ""
 
 msgctxt "#30018"
-msgid "Boot from CLI"
-msgstr "Boot fra CLI"
+msgid "Write Configuration"
+msgstr ""
 
 msgctxt "#30019"
-msgid "Resolution"
-msgstr "Opløsning"
-
-msgctxt "#30020"
 msgid "MAME INI Paths"
 msgstr "MAME INI stier"
 
+msgctxt "#30020"
+msgid "Save State Naming"
+msgstr ""
+
 msgctxt "#30021"
-msgid "MAME Joystick 4-way simulation"
-msgstr "Simulering af MAME 4-vejs joystick"
+msgid "Auto Save/Load States"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Enable Softlists"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Softlist Automatic Media Type"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Media Type"
+msgstr ""
+
+#~ msgctxt "Addon Summary"
+#~ msgid "Arcade (MAME - Current)"
+#~ msgstr "Arcade (MAME - Nuværende)"
+
+#~ msgctxt "#30001"
+#~ msgid "Read configuration"
+#~ msgstr "Læs konfiguration"
+
+#~ msgctxt "#30002"
+#~ msgid "Write configuration"
+#~ msgstr "Skriv konfiguration"
+
+#~ msgctxt "#30003"
+#~ msgid "Save state naming"
+#~ msgstr "Gem navngivning af tilstanden"
+
+#~ msgctxt "#30004"
+#~ msgid "Auto save/load states"
+#~ msgstr "Gem/indlæs automatisk tilstande"
+
+#~ msgctxt "#30005"
+#~ msgid "Enable in-game mouse"
+#~ msgstr "Aktiver mus i spillet"
+
+#~ msgctxt "#30006"
+#~ msgid "Lightgun mode"
+#~ msgstr "Tilstand for lightgun"
+
+#~ msgctxt "#30007"
+#~ msgid "Lightgun offscreen position"
+#~ msgstr "Lightgun position udenfor skærmen"
+
+#~ msgctxt "#30008"
+#~ msgid "Profile Buttons according to games (Restart)"
+#~ msgstr "Profilknapper i henhold til spil (genstart)"
+
+#~ msgctxt "#30009"
+#~ msgid "Enable throttle"
+#~ msgstr "Aktiver throttle"
+
+#~ msgctxt "#30010"
+#~ msgid "Enable cheats"
+#~ msgstr "Aktiver snydekoder"
+
+#~ msgctxt "#30012"
+#~ msgid "Alternate render method"
+#~ msgstr "Alternativ renderingsmetode"
+
+#~ msgctxt "#30013"
+#~ msgid "Enable softlists"
+#~ msgstr "Aktiver softlists"
+
+#~ msgctxt "#30014"
+#~ msgid "Softlist automatic media type"
+#~ msgstr "Kom automatisk medietyper på softlisten"
+
+#~ msgctxt "#30015"
+#~ msgid "Media type"
+#~ msgstr "Medietype"
+
+#~ msgctxt "#30016"
+#~ msgid "Boot to BIOS"
+#~ msgstr "Boot til BIOS"
+
+#~ msgctxt "#30017"
+#~ msgid "Boot to OSD"
+#~ msgstr "Boot til OSD"
+
+#~ msgctxt "#30018"
+#~ msgid "Boot from CLI"
+#~ msgstr "Boot fra CLI"
+
+#~ msgctxt "#30019"
+#~ msgid "Resolution"
+#~ msgstr "Opløsning"
+
+#~ msgctxt "#30020"
+#~ msgid "MAME INI Paths"
+#~ msgstr "MAME INI stier"
+
+#~ msgctxt "#30021"
+#~ msgid "MAME Joystick 4-way simulation"
+#~ msgstr "Simulering af MAME 4-vejs joystick"
 
 #~ msgctxt "#30007"
 #~ msgid "Profile Buttons according to games (Restart)"
@@ -164,10 +260,6 @@ msgstr "Simulering af MAME 4-vejs joystick"
 #~ msgctxt "#30018"
 #~ msgid "Resolution"
 #~ msgstr "Opløsning"
-
-#~ msgctxt "#30019"
-#~ msgid "MAME INI Paths"
-#~ msgstr "MAME INI stier"
 
 #~ msgctxt "#30020"
 #~ msgid "MAME Joystick 4-way simulation"
