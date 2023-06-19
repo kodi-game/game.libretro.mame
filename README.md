@@ -1,4 +1,4 @@
-# Arcade (MAME - Current)
+# Arcade (MAME)
 
 ### Description
 
@@ -10,7 +10,7 @@ GPLv2+
 
 ### Icon
 
-![Arcade (MAME - Current) icon](game.libretro.mame/resources/icon.png)
+![Arcade (MAME) icon](game.libretro.mame/resources/icon.png)
 
 ### Fanart
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.mame"
-		name="Arcade (MAME - Current)"
-		version="0.251.0.18"
+		name="Arcade (MAME)"
+		version="0.251.0.19"
 		provider-name="MAMEdev">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -25,7 +25,7 @@
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="da_DK">Arcade (MAME - Nuværende)</summary>
-		<summary lang="en_GB">Arcade (MAME - Current)</summary>
+		<summary lang="en_GB">Arcade (MAME)</summary>
 		<summary lang="es_ES">Arcade (MAME - Actual)</summary>
 		<summary lang="zh_CN">街机（MAME - 当前）</summary>
 		<description lang="da_DK">MAME står for [B]M[/B]ultiple [B]A[/B]rcade [B]M[/B]achine [B]E[/B]mulator. MAME kan i øjeblikket efterligne flere tusinde klassiske arkadespil fra slutningen af 1970&apos;erne gennem den moderne æra.</description>
