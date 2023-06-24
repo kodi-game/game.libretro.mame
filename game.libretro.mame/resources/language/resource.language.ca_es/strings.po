@@ -65,65 +65,69 @@ msgid "Rotation Mode"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Alternate Renderer"
+msgid "Enable Threads(restart)"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Alternate Renderer Resolution"
+msgid "Alternate Renderer"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Main CPU Overclock"
+msgid "Alternate Renderer Resolution"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Enable Cheats"
+msgid "Main CPU Overclock"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Enable Throttle"
+msgid "Enable Cheats"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Boot to BIOS"
+msgid "Enable Throttle"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Boot to OSD"
+msgid "Boot to BIOS"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Boot from CLI"
+msgid "Boot to OSD"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Read Configuration"
+msgid "Boot from CLI"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Write Configuration"
+msgid "Read Configuration"
 msgstr ""
 
 msgctxt "#30019"
-msgid "MAME INI Paths"
+msgid "Write Configuration"
 msgstr ""
 
 msgctxt "#30020"
-msgid "Save State Naming"
+msgid "MAME INI Paths"
 msgstr ""
 
 msgctxt "#30021"
-msgid "Auto Save/Load States"
+msgid "Save State Naming"
 msgstr ""
 
 msgctxt "#30022"
-msgid "Enable Softlists"
+msgid "Auto Save/Load States"
 msgstr ""
 
 msgctxt "#30023"
-msgid "Softlist Automatic Media Type"
+msgid "Enable Softlists"
 msgstr ""
 
 msgctxt "#30024"
+msgid "Softlist Automatic Media Type"
+msgstr ""
+
+msgctxt "#30025"
 msgid "Media Type"
 msgstr ""

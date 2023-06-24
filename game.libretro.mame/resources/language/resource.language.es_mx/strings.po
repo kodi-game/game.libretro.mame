@@ -66,68 +66,80 @@ msgid "Rotation Mode"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Alternate Renderer"
+msgid "Enable Threads(restart)"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Alternate Renderer Resolution"
+msgid "Alternate Renderer"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Main CPU Overclock"
-msgstr "Overclock del CPU principal"
+msgid "Alternate Renderer Resolution"
+msgstr ""
 
 msgctxt "#30012"
-msgid "Enable Cheats"
+msgid "Main CPU Overclock"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Enable Throttle"
+msgid "Enable Cheats"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Boot to BIOS"
+msgid "Enable Throttle"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Boot to OSD"
-msgstr ""
+msgid "Boot to BIOS"
+msgstr "Arrancar al BIOS"
 
 msgctxt "#30016"
-msgid "Boot from CLI"
-msgstr ""
+msgid "Boot to OSD"
+msgstr "Arrancar al OSD"
 
 msgctxt "#30017"
+msgid "Boot from CLI"
+msgstr "Arrancar desde línea de comandos"
+
+msgctxt "#30018"
 msgid "Read Configuration"
 msgstr ""
 
-msgctxt "#30018"
+msgctxt "#30019"
 msgid "Write Configuration"
 msgstr ""
 
-msgctxt "#30019"
+msgctxt "#30020"
 msgid "MAME INI Paths"
 msgstr "Rutas INI de MAME"
 
-msgctxt "#30020"
+msgctxt "#30021"
 msgid "Save State Naming"
 msgstr ""
 
-msgctxt "#30021"
+msgctxt "#30022"
 msgid "Auto Save/Load States"
 msgstr ""
 
-msgctxt "#30022"
+msgctxt "#30023"
 msgid "Enable Softlists"
 msgstr ""
 
-msgctxt "#30023"
+msgctxt "#30024"
 msgid "Softlist Automatic Media Type"
 msgstr ""
 
-msgctxt "#30024"
+msgctxt "#30025"
 msgid "Media Type"
 msgstr ""
+
+#~ msgctxt "#30011"
+#~ msgid "Main CPU Overclock"
+#~ msgstr "Overclock del CPU principal"
+
+#~ msgctxt "#30019"
+#~ msgid "MAME INI Paths"
+#~ msgstr "Rutas INI de MAME"
 
 #~ msgctxt "#30001"
 #~ msgid "Read configuration"
@@ -197,10 +209,6 @@ msgstr ""
 #~ msgid "Resolution"
 #~ msgstr "Resolución"
 
-#~ msgctxt "#30020"
-#~ msgid "MAME INI Paths"
-#~ msgstr "Rutas INI de MAME"
-
 #~ msgctxt "#30007"
 #~ msgid "Profile Buttons according to games (Restart)"
 #~ msgstr "Botones de perfil acordes a los juegos (Reiniciar)"
@@ -232,18 +240,6 @@ msgstr ""
 #~ msgctxt "#30014"
 #~ msgid "Media type"
 #~ msgstr "Tipo de medio"
-
-#~ msgctxt "#30015"
-#~ msgid "Boot to BIOS"
-#~ msgstr "Arrancar al BIOS"
-
-#~ msgctxt "#30016"
-#~ msgid "Boot to OSD"
-#~ msgstr "Arrancar al OSD"
-
-#~ msgctxt "#30017"
-#~ msgid "Boot from CLI"
-#~ msgstr "Arrancar desde línea de comandos"
 
 #~ msgctxt "#30018"
 #~ msgid "Resolution"
