@@ -33,10 +33,6 @@ msgctxt "#30000"
 msgid "Settings"
 msgstr "Indstillinger"
 
-msgctxt "#30001"
-msgid "Enable Mouse"
-msgstr ""
-
 msgctxt "#30002"
 msgid "Lightgun Mode"
 msgstr ""
@@ -61,32 +57,12 @@ msgctxt "#30007"
 msgid "Joystick 4-way Simulation"
 msgstr ""
 
-msgctxt "#30008"
-msgid "Rotation Mode"
-msgstr ""
-
-msgctxt "#30009"
-msgid "Enable Threads(restart)"
-msgstr ""
-
 msgctxt "#30010"
 msgid "Alternate Renderer"
 msgstr ""
 
 msgctxt "#30011"
 msgid "Alternate Renderer Resolution"
-msgstr ""
-
-msgctxt "#30012"
-msgid "Main CPU Overclock"
-msgstr ""
-
-msgctxt "#30013"
-msgid "Enable Cheats"
-msgstr ""
-
-msgctxt "#30014"
-msgid "Enable Throttle"
 msgstr ""
 
 msgctxt "#30015"
@@ -96,10 +72,6 @@ msgstr "Boot til BIOS"
 msgctxt "#30016"
 msgid "Boot to OSD"
 msgstr "Boot til OSD"
-
-msgctxt "#30017"
-msgid "Boot from CLI"
-msgstr "Boot fra CLI"
 
 msgctxt "#30018"
 msgid "Read Configuration"
@@ -121,10 +93,6 @@ msgctxt "#30022"
 msgid "Auto Save/Load States"
 msgstr ""
 
-msgctxt "#30023"
-msgid "Enable Softlists"
-msgstr ""
-
 msgctxt "#30024"
 msgid "Softlist Automatic Media Type"
 msgstr ""
@@ -132,6 +100,46 @@ msgstr ""
 msgctxt "#30025"
 msgid "Media Type"
 msgstr ""
+
+msgctxt "#30026"
+msgid "Thread Mode"
+msgstr ""
+
+msgctxt "#30027"
+msgid "Cheats"
+msgstr ""
+
+msgctxt "#30028"
+msgid "Throttle"
+msgstr ""
+
+msgctxt "#30029"
+msgid "Softlists"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Joystick Threshold"
+msgstr ""
+
+msgctxt "#30031"
+msgid "Mouse"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Screen Rotation Mode"
+msgstr ""
+
+msgctxt "#30033"
+msgid "CPU Overclock"
+msgstr ""
+
+msgctxt "#30034"
+msgid "Automatic Load Fast-Forward"
+msgstr ""
+
+#~ msgctxt "#30017"
+#~ msgid "Boot from CLI"
+#~ msgstr "Boot fra CLI"
 
 #~ msgctxt "#30011"
 #~ msgid "Main CPU Overclock"
