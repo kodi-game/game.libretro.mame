@@ -20,7 +20,7 @@
 		<setting label="30007" type="select" id="mame_mame_4way_enable" values="disabled|enabled" default="disabled"/>
 		<setting label="30004" type="select" id="mame_buttons_profiles" values="disabled|enabled" default="disabled"/>
 		<setting label="30031" type="select" id="mame_mouse_enable" values="enabled|disabled" default="enabled"/>
-		<setting label="30002" type="select" id="mame_lightgun_mode" values="lightgun|touchscreen|none" default="lightgun"/>
+		<setting label="30002" type="select" id="mame_lightgun_mode" values="none|lightgun|touchscreen" default="none"/>
 		<setting label="30003" type="select" id="mame_lightgun_offscreen_mode" values="free|fixed (top left)|fixed (bottom right)" default="free"/>
 		<setting label="30032" type="select" id="mame_rotation_mode" values="libretro|internal|tate-rol|tate-ror|none" default="libretro"/>
 		<setting label="30010" type="select" id="mame_alternate_renderer" values="disabled|enabled" default="disabled"/>
