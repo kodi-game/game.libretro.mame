@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.mame"
 		name="Arcade (MAME)"
-		version="0.267.0.25"
+		version="0.272.0.26"
 		provider-name="MAMEdev">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -12,7 +12,7 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms></platforms>
-		<extensions>chd|cmd|zip|7z</extensions>
+		<extensions>cmd|zip|7z</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>true</supports_standalone>
 		<requires_opengl>false</requires_opengl>

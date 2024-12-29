@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30026" type="select" id="mame_thread_mode" values="enabled|disabled" default="enabled"/>
 		<setting label="30027" type="select" id="mame_cheats_enable" values="disabled|enabled" default="disabled"/>
 		<setting label="30028" type="select" id="mame_throttle" values="disabled|enabled" default="disabled"/>
@@ -17,7 +17,7 @@
 		<setting label="30005" type="select" id="mame_joystick_deadzone" values="0.15|0.00|0.05|0.10|0.20|0.25|0.30|0.35|0.40|0.45|0.50|0.55|0.60|0.65|0.70|0.75|0.80|0.85|0.90|0.95|1.00" default="0.15"/>
 		<setting label="30006" type="select" id="mame_joystick_saturation" values="0.85|0.05|0.10|0.15|0.20|0.25|0.30|0.35|0.40|0.45|0.50|0.55|0.60|0.65|0.70|0.75|0.80|0.90|0.95|1.00" default="0.85"/>
 		<setting label="30030" type="select" id="mame_joystick_threshold" values="0.30|0.05|0.10|0.15|0.20|0.25|0.35|0.40|0.45|0.50|0.55|0.60|0.65|0.70|0.75|0.80|0.85|0.90|0.95|1.00" default="0.30"/>
-		<setting label="30007" type="select" id="mame_mame_4way_enable" values="disabled|enabled" default="disabled"/>
+		<setting label="30007" type="select" id="mame_mame_4way_enable" values="disabled|4way|strict|qbert" default="disabled"/>
 		<setting label="30004" type="select" id="mame_buttons_profiles" values="disabled|enabled" default="disabled"/>
 		<setting label="30031" type="select" id="mame_mouse_enable" values="enabled|disabled" default="enabled"/>
 		<setting label="30002" type="select" id="mame_lightgun_mode" values="none|lightgun|touchscreen" default="none"/>
